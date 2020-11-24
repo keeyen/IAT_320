@@ -74,7 +74,7 @@ void loop() {
       }
       
       CircuitPlayground.setPixelColor(i, 255, 247, 0);   // Turn on neo pixel to Yellow color
-      delay(3000); // Increment every 1 seconds, set 2 minutes to apply to real world running scale.
+      delay(3000); // Increment every 3 seconds, set 2 minutes to apply to real world running scale.
       CircuitPlayground.setPixelColor(i, 255, 0, 0);   // Turn on neo pixel to Red color
            
     } 
